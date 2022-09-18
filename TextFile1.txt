@@ -1,0 +1,18 @@
+LOGLAMA SEVÝYELERÝ
+-Trace(0)
+	-Uygulama ayaða kalktý vb.
+
+-Debug(1)
+	-Bir methoda girdi, dosya kaydedildi vb.
+
+-Information(2)
+	-Uygulamanýn genel akýþý. Ýstek alýndý vb.
+	
+-Warning(3)
+	-Uygulama akýþýnda beklenmeyen olaylar. Uygulamanýn patlamasýný saðlamýyor.
+
+-Error(4)
+	-Uygulama patladýðýnda.
+
+-Critical(5)
+	-
